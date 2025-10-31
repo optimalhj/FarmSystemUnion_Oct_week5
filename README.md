@@ -1,4 +1,4 @@
-# farm_system_union(IoTogether) / 10월 4주차 기술보고서
+# farm_system_union(IoTogether) / 10월 5주차 기술보고서
 ##  - (산업시스템공학과 2022112386 김호준)
 
 ## 저번 주까지의 활동
